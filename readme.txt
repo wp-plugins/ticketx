@@ -1,14 +1,15 @@
 === TicketX ===
 Contributors: Xnuiem
 Donate link: http://www.thisrand.com/scripts/ticketx
-Tags: 
+Tags: tickets, support
 Requires at least: 2.7
 Tested up to: 2.7
-
+Version: 0.1
 
 
 
 == Description ==
+This is currently only in development.  I do not suggest downloading at this point.
 
 
 == Installation ==

@@ -2,8 +2,8 @@
 /*
 Plugin Name: TicketX
 Plugin URI: http://www.thisrand.com/scripts/ticketx
-Description:
-Version:
+Description: This is currently only in development.  I do not suggest downloading at this point.
+Version: 0.1
 Author: Xnuiem
 Author URI: http://www.thisrand.com
 
@@ -27,7 +27,7 @@ Author URI: http://www.thisrand.com
 */
 
 /**
- * Description!
+ * This is currently only in development.  I do not suggest downloading at this point.
  * @package WordPress
  * @since 2.7
  */
